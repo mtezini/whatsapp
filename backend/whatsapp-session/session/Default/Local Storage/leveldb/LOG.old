@@ -1,0 +1,15 @@
+2025/08/13-08:28:24.145 5ac Reusing MANIFEST C:\Users\Suporte\Desktop\Whatsapp\backend\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/13-08:28:24.190 5ac Recovering log #16
+2025/08/13-08:28:24.191 5ac Reusing old log C:\Users\Suporte\Desktop\Whatsapp\backend\whatsapp-session\session\Default\Local Storage\leveldb/000016.log 
+2025/08/13-08:32:28.661 2378 Level-0 table #20: started
+2025/08/13-08:32:28.668 2378 Level-0 table #20: 14590 bytes OK
+2025/08/13-08:32:28.670 2378 Delete type=0 #16
+2025/08/13-08:32:28.676 2378 Compacting 4@0 + 1@1 files
+2025/08/13-08:32:28.683 2378 Generated table #21@0: 114 keys, 7344 bytes
+2025/08/13-08:32:28.683 2378 Compacted 4@0 + 1@1 files => 7344 bytes
+2025/08/13-08:32:28.684 2378 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/13-08:32:28.685 2378 Delete type=2 #8
+2025/08/13-08:32:28.685 2378 Delete type=2 #11
+2025/08/13-08:32:28.685 2378 Delete type=2 #14
+2025/08/13-08:32:28.685 2378 Delete type=2 #17
+2025/08/13-08:32:28.685 2378 Delete type=2 #20
